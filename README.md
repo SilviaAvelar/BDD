@@ -1,0 +1,1 @@
+Exercício escrito em Gherkin
